@@ -1,0 +1,14 @@
+    "name": "AceOfArrows",
+    "emotes": {
+        ":AceDumDum:": {
+            "size": 32,
+            "type": "image",
+            "url": "http://i.imgur.com/OSjZkps.png"
+        },
+        ":WagonFire:": {
+            "size": 32,
+            "type": "image",
+            "url": "http://i.imgur.com/Nxj3Dyy.png"
+        },
+            }
+}
