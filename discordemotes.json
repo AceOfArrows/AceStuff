@@ -271,11 +271,83 @@
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/SmoothProgress.png"
         },
+        "<StampApproved>": {
+            "width": "80",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/StampApproved.png"
+        },
+        "<StampRejected>": {
+            "width": "80",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/StampRejected.png"
+        },
+        "<TCurse>": {
+            "width": "31",
+            "height": "10",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/TCurse.png"
+        },
+        "<TeamMagic>": {
+            "width": "45",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/TeamMagic.png"
+        },
+        "<TeamMight>": {
+            "width": "49",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/TeamMight.png"
+        },
+        "<TheTriforce>": {
+            "width": "32",
+            "height": "28",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/TheTriforce.png"
+        },
+        "<TirRIP>": {
+            "width": "54",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/TirRIP.png"
+        },
+        "<TooGreedy>": {
+            "width": "32",
+            "height": "31",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/TooGreedy.png"
+        },
+        "<ToughItOut>": {
+            "width": "59",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/ToughItOut.png"
+        },
+        "<VeryThanks>": {
+            "width": "80",
+            "height": "5",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/VeryThanks.png"
+        },
+        "<w8Hand>": {
+            "width": 32,
+            "height": 28,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/w8Hand.png"
+        },
         "<WagonFire>": {
             "width": 29,
             "height": 32,
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WagonFire.png"
-        }
+        },
+        "<WhirlRekky>": {
+            "width": 38,
+            "height": 20,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WhirlRekky.png"
+        },
             }
 }
