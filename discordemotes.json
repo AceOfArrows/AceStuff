@@ -169,6 +169,108 @@
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/JudgeMiss.png"
         },
+        "<KickShins>": {
+            "width": "32",
+            "height": "32",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/KickShins.png"
+        },
+        "<LumenTraitor>": {
+            "width": "71",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/LumenTraitor.png"
+        },
+        "<NariFace>": {
+            "width": "32",
+            "height": "22",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/NariFace.png"
+        },
+        "<NariLewd>": {
+            "width": "32",
+            "height": "22",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/NariLewd.png"
+        },
+        "<NariPleased>": {
+            "width": "32",
+            "height": "22",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/NariPleased.png"
+        },
+        "<NariThump>": {
+            "width": "32",
+            "height": "22",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/NariThump.png"
+        },
+        "<NariUpset>": {
+            "width": "32",
+            "height": "22",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/NariUpset.png"
+        },
+        "<NepHype>": {
+            "width": "32",
+            "height": "32",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/NepHype.png"
+        },
+        "<NoHands>": {
+            "width": "32",
+            "height": "28",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/NoHands.png"
+        },
+        "<NumismePls>": {
+            "width": "32",
+            "height": "25",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/NumismePls.png"
+        },
+        "<OnARoll>": {
+            "width": "80",
+            "height": "16",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/OnARoll.png"
+        },
+        "<PrettyBoyIdol>": {
+            "width": "29",
+            "height": "23",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/PrettyBoyIdol.png"
+        },
+        "<ResetNES>": {
+            "width": "50",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/ResetNES.png"
+        },
+        "<RightShark>": {
+            "width": "27",
+            "height": "31",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/RightShark.png"
+        },
+        "<ShowThemCruelty>": {
+            "width": "41",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/ShowThemCruelty.png"
+        },
+        "<ShowThemKindness>": {
+            "width": "41",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/ShowThemKindness.png"
+        },
+        "<SmoothProgress>": {
+            "width": "80",
+            "height": "20",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/SmoothProgress.png"
+        },
         "<WagonFire>": {
             "width": 29,
             "height": 32,
