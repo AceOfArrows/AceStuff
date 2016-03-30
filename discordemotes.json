@@ -348,6 +348,114 @@
             "height": 20,
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WhirlRekky.png"
+        },
+        "<AmaRekt>": {
+            "width": 100,
+            "height": 20,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/AmaRekt.png"
+        },
+        "<CCalm>": {
+            "width": 79,
+            "height": 19,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/CCalm.png"
+        },
+        "<Cheement>": {
+            "width": 80,
+            "height": 16,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/Cheement.png"
+        },
+        "<CirnoBaka>": {
+            "width": 48,
+            "height": 20,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/CirnoBaka.png"
+        },
+        "<DmgPlz>": {
+            "width": 100,
+            "height": 14,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/dmgplz.png"
+        },
+        "<FaithMiko>": {
+            "width": 32,
+            "height": 30,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/FaithMiko.png"
+        },
+        "<GG!>": {
+            "width": 28,
+            "height": 28,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/GG!.png"
+        },
+        "<JustDoIt>": {
+            "width": 31,
+            "height": 32,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/JUSTDOIT.png"
+        },
+        "<Klappa>": {
+            "width": 59,
+            "height": 20,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/Klappa.png"
+        },
+        "<MikuFail>": {
+            "width": 32,
+            "height": 32,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/MikuFail.png"
+        },
+        "<MotteLewd>": {
+            "width": 32,
+            "height": 32,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/MotteLewd.png"
+        },
+        "<NepWink>": {
+            "width": 32,
+            "height": 32,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/NepWink.png"
+        },
+        "<NicoNii>": {
+            "width": 32,
+            "height": 32,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/NicoNii.png"
+        },
+        "<PB!>": {
+            "width": 18,
+            "height": 28,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/PB!.png"
+        },
+        "<REALLY>": {
+            "width": 79,
+            "height": 19,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/REALLY.png"
+        },
+        "<RedSplitsLive>": {
+            "width": 77,
+            "height": 12,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/RedSplitsLive.png"
+        },
+        "<RipUrn>": {
+            "width": 32,
+            "height": 32,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/RipUrn.png"
+        },
+        "<ThisIsFine>": {
+            "width": 28,
+            "height": 31,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Imported/ThisIsFine.png"
         }
             }
 }
