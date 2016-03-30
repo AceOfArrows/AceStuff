@@ -4,12 +4,12 @@
         ":AceDumDum:": {
             "size": 32,
             "type": "image",
-            "url": "https://github.com/AceOfArrows/AceStuff/blob/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/AceDoink.png"
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/AceDumDum.png"
         },
         "WagonFire": {
             "size": 32,
             "type": "image",
-            "url": "https://github.com/AceOfArrows/AceStuff/blob/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WagonFire.png"
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WagonFire.png"
         }
             }
 }
