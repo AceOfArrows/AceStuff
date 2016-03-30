@@ -1,15 +1,21 @@
 {
     "name": "AceOfArrows",
     "emotes": {
-        ":AceDumDum:": {
+        "<AceDumDum>": {
             "size": 32,
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/AceDumDum.png"
         },
-        "WagonFire": {
+        "<WagonFire>": {
             "size": 32,
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WagonFire.png"
         }
+        "<ElodiePetty>": {
+            "width": 70,
+            "height": 20,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/ElodiePetty.png"
+        },
             }
 }
