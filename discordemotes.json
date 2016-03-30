@@ -7,11 +7,23 @@
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/AceDumDum.png"
         },
-        "<WagonFire>": {
-            "width": 29,
+        "<AceDoink>": {
+            "width": 31,
+            "height": 19,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/AceDoink.png"
+        },
+        "<BPoint>": {
+            "width": 10,
+            "height": 11,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/BPoint.png"
+        },
+        "<BadGoodLuck>": {
+            "width": 32,
             "height": 32,
             "type": "image",
-            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WagonFire.png"
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/BadGoodLuck.png"
         },
         "<ElodiePetty>": {
             "width": "70",
@@ -19,5 +31,11 @@
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/ElodiePetty.png"
         }
+        "<WagonFire>": {
+            "width": 29,
+            "height": 32,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WagonFire.png"
+        },
             }
 }
