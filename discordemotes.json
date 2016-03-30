@@ -12,8 +12,7 @@
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WagonFire.png"
         },
         "<ElodiePetty>": {
-            "width": 70,
-            "height": 20,
+            "size": 70,
             "type": "image",
             "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/ElodiePetty.png"
         }
