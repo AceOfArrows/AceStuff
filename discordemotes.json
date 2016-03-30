@@ -1,15 +1,15 @@
 {
     "name": "AceOfArrows",
     "emotes": {
-        "AceDumDum": {
+        ":AceDumDum:": {
             "size": 32,
             "type": "image",
-            "url": "http://i1149.photobucket.com/albums/o592/AceOfCharts/Ace%20Emotes/AceDumDum_zpsehmmp5es.png"
+            "url": "https://github.com/AceOfArrows/AceStuff/blob/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/AceDoink.png"
         },
         "WagonFire": {
             "size": 32,
             "type": "image",
-            "url": "https://raw.githubusercontent.com/AceOfArrows/AceStuff/master/WagonFire.png"
+            "url": "https://github.com/AceOfArrows/AceStuff/blob/master/AceOfArrows%20Emotes%20(1x%20Size)/Made%20By%20Ace/WagonFire.png"
         }
             }
 }
